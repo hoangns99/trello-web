@@ -4,9 +4,9 @@
 
 Nguyễn Song Hoàng 
 
-https://www.facebook.com/2king99/
+Facebook: https://www.facebook.com/2king99/
 
-https://github.com/hoangns99
+Github: https://github.com/hoangns99
 
 
 ## Technology 
