@@ -1,5 +1,7 @@
 # Project: Trello Web App
 
+Xây dựng ứng dụng kéo thả tương tự Trello
+
 ## Author 
 
 Nguyễn Song Hoàng 
