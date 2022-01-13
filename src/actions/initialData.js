@@ -10,7 +10,7 @@ export const initialData = {
                     title: 'To do column',
                     cardOrder: ['card-1', 'card-2', 'card-3'],
                     cards: [
-                        { id: 'card-1', boarId: 'board-1', columnId: 'column-1', title: 'Tilte of card 1', cover: 'https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/217398019_1209586872846829_8062224018798359500_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=XBIv7I9QtUcAX9OCe6r&_nc_ht=scontent.fdad1-3.fna&oh=00_AT9yCZ2i6uELuY-uqHj3zlmz12g4KArNUtzXsivtHHp25A&oe=61DDF7C7' },
+                        { id: 'card-1', boarId: 'board-1', columnId: 'column-1', title: 'Tilte of card 1', cover: 'https://kenh14cdn.com/2020/9/7/anh-chup-man-hinh-2020-09-07-luc-002550-15994138104401465900181.png' },
                         { id: 'card-2', boarId: 'board-1', columnId: 'column-1', title: 'Tilte of card 2', cover: null },
                         { id: 'card-3', boarId: 'board-1', columnId: 'column-1', title: 'Tilte of card 3', cover: null }
                     ]
