@@ -77,6 +77,8 @@ function BoardContent() {
         newBoard.columns = newColumns;
         setColumns(newColumns);
         setBoard(newBoard);
+        setNewColumnTitle('');
+        toggleOpenNewColumnForm();
     }
     const onUpdateColumn = (newColumnToUpdate) => {
         const columnIdToUpdate = newColumnToUpdate.id
